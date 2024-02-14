@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5fvnEp8XHM8iel4UurGbypo7u46N28fquTq2FQlenq/FCoibe7DprijTS0qJgcVt2asWt22m2TGD4DxPr5jVg==",
+  "dgSpecHash": "re+Jvk9W8O6d/0sM3wTg3mmzkgq5PZCQAnSWBNtIC8DmEf7M4MV+cetdu6lHC2TNxHGBZewDrVtR7bD9nMRQNg==",
   "success": true,
-  "projectFilePath": "C:\\aspnet\\BARII\\BARII.csproj",
+  "projectFilePath": "C:\\aspnet\\webapp\\BARII.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
