@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BARII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+217f98b89a5d5a38a884c9c87b7cd8685c7ea286")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f97ce25d5e8eef337c1d59a4d441336274f3cdca")]
 [assembly: System.Reflection.AssemblyProductAttribute("BARII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BARII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

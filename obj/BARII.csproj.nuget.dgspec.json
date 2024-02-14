@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aspnet\\BARII\\BARII.csproj": {}
+    "C:\\aspnet\\webapp\\BARII.csproj": {}
   },
   "projects": {
-    "C:\\aspnet\\BARII\\BARII.csproj": {
+    "C:\\aspnet\\webapp\\BARII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aspnet\\BARII\\BARII.csproj",
+        "projectUniqueName": "C:\\aspnet\\webapp\\BARII.csproj",
         "projectName": "BARII",
-        "projectPath": "C:\\aspnet\\BARII\\BARII.csproj",
+        "projectPath": "C:\\aspnet\\webapp\\BARII.csproj",
         "packagesPath": "C:\\Users\\Bari\\.nuget\\packages\\",
-        "outputPath": "C:\\aspnet\\BARII\\obj\\",
+        "outputPath": "C:\\aspnet\\webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bari\\AppData\\Roaming\\NuGet\\NuGet.Config"
